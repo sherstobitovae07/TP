@@ -2,7 +2,7 @@ public class Publisher {
     private String name;
     private Address address;
 
-    // Constructor, getters, setters, and toString
+
 
     public String getName() {
         return name;
