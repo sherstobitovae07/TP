@@ -16,4 +16,20 @@
 		<language>English</language>
 		<translator>Jane Austen</translator>
 	</book>
+	    <book id="2">
+        <title>Clean Code</title>
+        <author>Jane Austen</author>
+        <year>2003</year>
+        <genre>Biography</genre>
+        <price currency="GBP">96.39</price>
+        <isbn>978-9-207139114</isbn>
+        <publisher>
+            <name>TechBooks Publishing</name>
+            <address>
+                <city>Moscow</city>
+                <country>UK</country>
+            </address>
+        </publisher>
+        <language>Russian</language>
+    </book>
 </library>
