@@ -16,7 +16,7 @@
 		<language>English</language>
 		<translator>Jane Austen</translator>
 	</book>
-	    <book id="2">
+        <book id="2">
         <title>Clean Code</title>
         <author>Jane Austen</author>
         <year>2003</year>
