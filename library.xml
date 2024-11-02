@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <book id="1">
+        <title>Clean Code</title>
+        <author>Isaac Asimov</author>
+        <year>1990</year>
+        <genre>Non-Fiction</genre>
+        <price currency="RUB">92.77</price>
+        <isbn>978-8-975498175</isbn>
+        <publisher>
+            <name>Classic Books</name>
+            <address>
+                <city>Moscow</city>
+                <country>Germany</country>
+            </address>
+        </publisher>
+        <language>English</language>
+        <translator>Jane Austen</translator>
+    </book>
+    <book id="2">
+        <title>Clean Code</title>
+        <author>Jane Austen</author>
+        <year>2003</year>
+        <genre>Biography</genre>
+        <price currency="GBP">96.39</price>
+        <isbn>978-9-207139114</isbn>
+        <publisher>
+            <name>TechBooks Publishing</name>
+            <address>
+                <city>Moscow</city>
+                <country>UK</country>
+            </address>
+        </publisher>
+        <language>Russian</language>
+    </book>
+</library>
