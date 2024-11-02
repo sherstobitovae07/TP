@@ -1,8 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         library library = new library();
-
-//        // Добавьте книги в библиотеку
+        
 //        Book book1 = new Book();
 //        book1.setId("1");
 //        book1.setTitle("Book Title 1");
